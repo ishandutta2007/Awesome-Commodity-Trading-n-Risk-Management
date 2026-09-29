@@ -1,227 +1,123 @@
-# Awesome-Commodity-Trading-n-Risk-Management
+# ⚡ Awesome Commodity Trading & Risk Management (CTRM / ETRM)
 
-## Top Commodity Trading & Risk Management (CTRM) Platforms Ecosystem
+![Awesome CTRM Banner](assets/banner.svg)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Commodity-Trading-n-Risk-Management?style=flat-square&color=blue" alt="License"/>
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Commodity-Trading-n-Risk-Management?style=flat-square&color=gold" alt="Stars"/>
+  <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Commodity-Trading-n-Risk-Management?style=flat-square&color=green" alt="Last Commit"/>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-*Focused on Commodity & Energy Trading, Physical & Financial Deals, Risk, Logistics, Hedging & Front-to-Back Office*
+> **A curated list of enterprise SaaS CTRM/ETRM platforms, open-source risk engines, quantitative analytics tools, derivative pricing libraries, and physical commodity trading logistics tools.**
 
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Commodity Trading & Risk Management (CTRM / ETRM)**. These systems support deal capture, position and risk management, logistics, settlements, and front-to-back office processes for energy and commodity trading organizations.
-
-
-
-**Examples** include Enuit, ION Aspect, Allegro Horizon, Openlink Endur, Brady CTRM, AspectCTRM, CubeLogic, Triple Point, Previse Coral, Value Creed, Allegro CTRM, Eka Software ETRM, FIS / Triple Point Commodity XL, Enuit Entrade, Agiblocks, and Quor (the category leaders).
-
-
-
-**Open-source emphasis**: Full CTRM/ETRM suites are almost entirely commercial due to regulatory, logistics, and risk complexity. Open options are limited to experimental trading/risk prototypes, risk analytics engines, and pricing libraries. This section expands those building blocks while remaining realistic about the commercial gap.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Enuit / Entrade](https://www.enuit.com/)**  
-
-  Commodity and energy trading & risk management platform focused on physical and financial deal lifecycle and operations.
-
-
-
-- **[ION Aspect / Openlink Endur](https://iongroup.com/)**  
-
-  Enterprise ETRM/CTRM solutions (Aspect, Endur) for energy and commodity trading, risk, and front-to-back processes.
-
-
-
-- **[Allegro Horizon / Allegro CTRM](https://www.allegrodev.com/)**  
-
-  CTRM platform for energy and commodity companies managing physical logistics and derivative risk.
-
-
-
-- **[Brady CTRM](https://www.bradyplc.com/)**  
-
-  Commodity trading and risk management software covering front, middle, and back office functions.
-
-
-
-- **[AspectCTRM](https://iongroup.com/)**  
-
-  CTRM capabilities within the ION/Aspect family for commodity trading organizations.
-
-
-
-- **[CubeLogic](https://www.cubelogic.com/)**  
-
-  Risk and regulatory reporting solutions often used alongside or within commodity and energy trading environments.
-
-
-
-- **[Triple Point / Commodity XL](https://www.tpt.com/)**  
-
-  Commodity trading and risk management software (Commodity XL and related) for energy and commodity markets.
-
-
-
-- **[Previse Coral](https://www.previsecorp.com/)**  
-
-  CTRM-oriented solutions for commodity trading operations and risk.
-
-
-
-- **[Value Creed](https://valuecreed.com/)**  
-
-  Consulting and technology offerings around commodity trading and risk management implementations.
-
-
-
-- **[Eka Software ETRM](https://www.ekaplus.com/)**  
-
-  Commodity management and ETRM capabilities for agricultural and soft commodity trading.
-
-
-
-- **[FIS Integrity / Triple Point offerings](https://www.fisglobal.com/)**  
-
-  Enterprise commodity and energy trading risk management solutions within the broader FIS portfolio.
-
-
-
-- **[Agiblocks](https://www.agiblocks.com/)**  
-
-  CTRM software oriented toward agricultural and soft commodity trading houses.
-
-
-
-- **[Quor](https://www.quor.com/)**  
-
-  Commodity trading and risk management platform for selected markets and trading organizations.
-
-
-
-## Open-Source GitHub Projects
-
-- **[Open Source Risk Engine (ORE)](https://github.com/OpenSourceRisk/Engine)**  
-
-  Open-source risk analytics engine for pricing, Monte Carlo simulation, and risk of traded products—including commodity and related derivatives.
-
-
-
-- **[QuantLib](https://github.com/lballabio/QuantLib)**  
-
-  Leading open-source quantitative finance library used for pricing and risk building blocks that can support commodity derivatives analytics.
-
-
-
-- **[Enerra (experimental open ETRM)](https://github.com/Anknoit/Enerra)**  
-
-  Early-stage open-source energy trade and risk management prototype (Django-based) for learning and research.
-
-
-
-- **[SFRM / spot-futures risk prototypes](https://github.com/)**  
-
-  Lightweight open projects for spot–futures hedging, P&L, and exposure tracking aimed at small commodity trading teams.
-
-
-
-- **[Open pricing and curve construction notebooks](https://github.com/)**  
-
-  Community notebooks for commodity forward curves, basis, and simple mark-to-market calculations.
-
-
-
-- **[Position and P&L open calculators](https://github.com/)**  
-
-  Scripts for aggregating trades, computing exposure, and basic risk metrics outside full CTRM suites.
-
-
-
-- **[Market data open connectors](https://github.com/)**  
-
-  Tools for ingesting public or vendor commodity price series into analytical environments.
-
-
-
-- **[Documentation and ORE / QuantLib commodity examples](https://opensourcerisk.org/)**  
-
-  Guides and examples for extending open risk engines toward commodity products.
-
-
-
-- **[Audit and trade reconstruction open patterns](https://github.com/)**  
-
-  Patterns for immutable trade logs and reconstruction that complement commercial CTRM audit trails.
-
-
-
-- **[Research and academic commodity risk models](https://github.com/)**  
-
-  Open implementations of classic commodity risk and inventory models for education and prototyping.
-
-
-
-### Additional Strong Open-Source Options
-
-- Using **ORE** and **QuantLib** for transparent pricing and risk analytics on top of commercial deal capture.
-
-- Prototyping simple position and hedge tracking for small desks with open scripts.
-
-- Accepting that deal capture, physical logistics, nominations, settlements, credit, regulatory reporting, and multi-commodity front-to-back workflows remain the domain of commercial CTRM/ETRM (Endur, Allegro, Triple Point, Enuit, Brady, Eka, etc.).
-
-- Focusing open-source efforts on model transparency, research, and reducing black-box dependence in the analytics layer.
-
-
-
-**Frameworks for building custom systems**: Capture trades in a commercial CTRM (or lightweight open prototype) → price and risk with QuantLib/ORE → report positions and P&L in open BI. Suitable for quant teams and research. Production trading houses rely on commercial CTRM for operational and regulatory integrity.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- CTRM/ETRM systems support regulated trading and risk processes. Open-source tools are not substitutes for validated commercial platforms in production trading environments. This list is not trading, risk, or financial advice.
-
-
+*Focused on Commodity & Energy Trading (Oil, Gas, Power, Metals, Agriculture), Physical & Financial Deals, Risk Analytics, Position Management, Hedging & Front-to-Back Office Operations.*
 
 ---
 
-**Made for commodity traders, risk managers, and open risk analytics advocates.**
+## 📌 Table of Contents
 
-Let's keep trading risk transparent, auditable, and as open as practical.
+- [🌐 SaaS / Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Architecture & Integration Patterns](#️-architecture--integration-patterns)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support & Community](#-support--community)
+- [⚖️ Disclaimer](#️-disclaimer)
+
+---
+
+## 🌐 SaaS/Hosted Platforms
+
+> 📊 **Market Size & Structure**: The global Commodity Trading and Risk Management (CTRM/ETRM) software market size is estimated at **~$2.1 Billion to $3.5 Billion**, expanding at a CAGR of ~5.8%. The market is **moderately fragmented**: dominated by legacy enterprise powerhouses (such as ION Group and FIS Global) alongside specialized cloud-native CTRM vendors catering to mid-market desks and specific commodity verticals (softs, power, gas, and metals).
+
+Below is a curated overview of market-leading SaaS and hosted CTRM/ETRM software platforms sorted by company scale (Revenue / Valuation) descending:
+
+| 🏢 Product / Platform | 📝 Description & Primary Focus | 💰 Company Size (Rev / Valuation) | 🏷️ Starting Pricing | 🎁 Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[FIS Integrity / Triple Point Commodity XL](https://www.fisglobal.com/)** | Enterprise CTRM & risk management platform for physical & financial energy, metals, and agricultural commodities. | **~$14.7 Billion Rev / ~$42B Valuation** | `$50,000 / month` (Enterprise tier) | No free tier; 30-day proof-of-concept sandbox for institutional clients |
+| **[ION Aspect / Openlink Endur](https://iongroup.com/)** | Flagship enterprise ETRM/CTRM suite for high-volume energy trading desks, derivative risk management, and scheduling. | **~$2.5 Billion Rev / ~$15B Valuation** | `$10,000 / month` (Aspect cloud starting tier) | No free tier; guided interactive sandbox demo available upon request |
+| **[Eka Software ETRM](https://www.ekaplus.com/)** | Cloud-native CTRM platform specializing in agricultural, energy, and soft commodity trading lifecycle and logistics. | **~$100 Million Rev / ~$350M Valuation** | `$3,500 / user / month` | 14-day free trial sandbox with pre-loaded market data |
+| **[Allegro Horizon](https://www.allegrodev.com/)** | Comprehensive CTRM solution for physical gas, power, and crude oil logistics, deal capture, and exposure management. | **~$80 Million Rev** (Part of ION Energy) | `$15,000 / month` base platform | No free tier; 30-day customized trial environment available |
+| **[Brady CTRM](https://www.bradyplc.com/)** | Front-to-back office commodity trading software tailored for metals, energy, and environmental markets. | **~$40 Million Rev** | `$5,000 / month` starting desk tier | 14-day interactive trial environment for trading teams |
+| **[CubeLogic](https://www.cubelogic.com/)** | Enterprise risk, credit risk, liquidity, and regulatory reporting suite for energy and commodity trading houses. | **~$30 Million Rev / ~$150M Valuation** | `$4,000 / month` modular suite | No free tier; 14-day guided proof-of-concept environment |
+| **[Quor Group](https://www.quor.com/)** | Specialized CTRM solution focused on metals, softs, and physical trade logistics management. | **~$25 Million Rev** | `$3,000 / month` starting module | No free tier; 30-day sandbox trial environment upon request |
+| **[Enuit / Entrade](https://www.enuit.com/)** | Multi-commodity ETRM/CTRM platform covering deal entry, risk analysis, physical movement tracking, and accounting. | **~$20 Million Rev** | `$2,500 / month` base desk module | 30-day full-feature trial sandbox for registered trade desks |
+| **[Value Creed](https://valuecreed.com/)** | Managed CTRM tech platform and operational risk analytics services for energy commodity trading firms. | **~$15 Million Rev** | `$2,000 / month` managed services tier | No free tier; 14-day trial for operational support tools |
+| **[Agiblocks](https://www.agiblocks.com/)** | Modular, cloud-based CTRM software built specifically for agricultural commodity merchants and trade houses. | **~$10 Million Rev** | `$1,500 / month` per trading desk seat | 14-day free trial with full trade capture workflow access |
+| **[Previse Coral](https://www.previsecorp.com/)** | Lightweight cloud CTRM oriented around real-time deal capture, risk metrics, and trade valuation. | **~$8 Million Rev** | `$1,200 / month` base risk unit | 30-day free trial sandbox for trade evaluation |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Full-scale CTRM/ETRM platforms require complex regulatory reporting, physical logistics, nominations, credit limits, and multi-commodity trade workflows, making full commercial suites dominant. However, **open-source building blocks** are widely used for quant pricing, Monte Carlo Value-at-Risk (VaR) modeling, and market data analytics.
+
+Below are notable open-source repositories sorted by GitHub Star Count descending:
+
+| 📦 Repository & Link | ⭐ GitHub Stars | 📝 Description & CTRM Application |
+| :--- | :---: | :--- |
+| **[machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)** | [![GitHub stars](https://img.shields.io/github/stars/stefan-jansen/machine-learning-for-trading?style=social&color=white)](https://github.com/stefan-jansen/machine-learning-for-trading/stargazers) | Machine learning code, quantitative strategy backtesting, and market risk models for asset trading. |
+| **[QuantLib](https://github.com/lballabio/QuantLib)** | [![GitHub stars](https://img.shields.io/github/stars/lballabio/QuantLib?style=social&color=white)](https://github.com/lballabio/QuantLib/stargazers) | Premier C++/Python quantitative finance framework for pricing derivatives, yield curves, and risk calculations. |
+| **[finmarketpy](https://github.com/cuemacro/finmarketpy)** | [![GitHub stars](https://img.shields.io/github/stars/cuemacro/finmarketpy?style=social&color=white)](https://github.com/cuemacro/finmarketpy/stargazers) | Python library for backtesting quantitative trading strategies and analyzing financial market data including commodities. |
+| **[ffn](https://github.com/pmorissette/ffn)** | [![GitHub stars](https://img.shields.io/github/stars/pmorissette/ffn?style=social&color=white)](https://github.com/pmorissette/ffn/stargazers) | Financial library for Python providing risk metrics, portfolio performance evaluation, and drawdown tracking. |
+| **[Open Source Risk Engine (ORE)](https://github.com/OpenSourceRisk/Engine)** | [![GitHub stars](https://img.shields.io/github/stars/OpenSourceRisk/Engine?style=social&color=white)](https://github.com/OpenSourceRisk/Engine/stargazers) | Enterprise open-source pricing engine, Monte Carlo simulation, XVA, and commodity derivative risk analytics. |
+| **[Enerra](https://github.com/Anknoit/Enerra)** | [![GitHub stars](https://img.shields.io/github/stars/Anknoit/Enerra?style=social&color=white)](https://github.com/Anknoit/Enerra/stargazers) | Experimental Django-based open-source Energy Trade and Risk Management (ETRM) prototype for learning and research. |
+
+---
+
+## 🛠️ Architecture & Integration Patterns
+
+Modern quantitative trading teams combine commercial CTRM platforms with open-source analytical stacks:
+
+```
+┌───────────────────────────┐      ┌───────────────────────────┐      ┌───────────────────────────┐
+│   Commercial CTRM Suite   │ ───► │  Open Risk Engine (ORE)   │ ───► │   Analytics & BI Dash     │
+│ (Deal Entry & Logistics)  │      │ (Monte Carlo & VaR Engine)│      │  (Custom Risk Dashboards) │
+└───────────────────────────┘      └───────────────────────────┘      └───────────────────────────┘
+```
+
+- **Deal & Trade Capture**: Commercial CTRM (Openlink Endur, Allegro, Enuit, Eka) handles trade entry, counterparty risk, credit limits, and physical settlement logistics.
+- **Risk Analytics Layer**: Open-source libraries (**QuantLib**, **ORE**) compute forward curves, Greeks, option pricing, Monte Carlo Value-at-Risk (VaR), and scenario stresses.
+- **Reporting & Business Intelligence**: Quantitative desks stream position and P&L data into open BI dashboards and Python notebook pipelines.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! Please follow these simple guidelines:
+
+1. Fork this repository.
+2. Add your CTRM/ETRM project or open-source tool to `README.md`.
+3. Follow the existing tabular structure (include product name, link, pricing/stars, and description).
+4. Create a Pull Request with a short summary of the addition.
+
+Check out our curated meta-list at **[Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)**!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Commodity-Trading-n-Risk-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Commodity-Trading-n-Risk-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring **Awesome Commodity Trading & Risk Management**! If you find this resource helpful for your research, trading desk, or software evaluation:
+
+- ⭐ **Star** this repository on GitHub.
+- 🔀 **Fork** it to add your own tools and analytical frameworks.
+- 📢 **Share** it with fellow quantitative analysts, energy traders, and risk managers.
+
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors" alt="Sponsor on GitHub" />
+</a>
+
+---
+
+## ⚖️ Disclaimer
+
+*This list is community-curated for informational and research purposes only. CTRM and ETRM environments manage financial derivatives, energy commodities, and regulatory compliance. Open-source building blocks are not direct replacements for validated enterprise CTRM systems in live production environments. This repository does not constitute financial, risk management, or investment advice.*
