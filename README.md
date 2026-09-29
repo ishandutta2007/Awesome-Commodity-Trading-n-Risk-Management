@@ -55,16 +55,16 @@ Below is a curated overview of market-leading SaaS and hosted CTRM/ETRM software
 
 Full-scale CTRM/ETRM platforms require complex regulatory reporting, physical logistics, nominations, credit limits, and multi-commodity trade workflows, making full commercial suites dominant. However, **open-source building blocks** are widely used for quant pricing, Monte Carlo Value-at-Risk (VaR) modeling, and market data analytics.
 
-Below are notable open-source repositories sorted by GitHub Star Count descending:
+Below are notable open-source repositories sorted by GitHub Stars_Count descending:
 
-| 📦 Repository & Link | ⭐ GitHub Stars | 📝 Description & CTRM Application |
+| 📦 Repository & Link | ⭐ GitHub_Stars | 📝 Description & CTRM Application |
 | :--- | :---: | :--- |
-| **[machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)** | [![GitHub stars](https://img.shields.io/github/stars/stefan-jansen/machine-learning-for-trading?style=social&color=white)](https://github.com/stefan-jansen/machine-learning-for-trading/stargazers) | Machine learning code, quantitative strategy backtesting, and market risk models for asset trading. |
-| **[QuantLib](https://github.com/lballabio/QuantLib)** | [![GitHub stars](https://img.shields.io/github/stars/lballabio/QuantLib?style=social&color=white)](https://github.com/lballabio/QuantLib/stargazers) | Premier C++/Python quantitative finance framework for pricing derivatives, yield curves, and risk calculations. |
-| **[finmarketpy](https://github.com/cuemacro/finmarketpy)** | [![GitHub stars](https://img.shields.io/github/stars/cuemacro/finmarketpy?style=social&color=white)](https://github.com/cuemacro/finmarketpy/stargazers) | Python library for backtesting quantitative trading strategies and analyzing financial market data including commodities. |
-| **[ffn](https://github.com/pmorissette/ffn)** | [![GitHub stars](https://img.shields.io/github/stars/pmorissette/ffn?style=social&color=white)](https://github.com/pmorissette/ffn/stargazers) | Financial library for Python providing risk metrics, portfolio performance evaluation, and drawdown tracking. |
-| **[Open Source Risk Engine (ORE)](https://github.com/OpenSourceRisk/Engine)** | [![GitHub stars](https://img.shields.io/github/stars/OpenSourceRisk/Engine?style=social&color=white)](https://github.com/OpenSourceRisk/Engine/stargazers) | Enterprise open-source pricing engine, Monte Carlo simulation, XVA, and commodity derivative risk analytics. |
-| **[Enerra](https://github.com/Anknoit/Enerra)** | [![GitHub stars](https://img.shields.io/github/stars/Anknoit/Enerra?style=social&color=white)](https://github.com/Anknoit/Enerra/stargazers) | Experimental Django-based open-source Energy Trade and Risk Management (ETRM) prototype for learning and research. |
+| **[machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)** | [![GitHub_Stars](https://img.shields.io/github/stars/stefan-jansen/machine-learning-for-trading?style=social&color=white)](https://github.com/stefan-jansen/machine-learning-for-trading/stargazers) | Machine learning code, quantitative strategy backtesting, and market risk models for asset trading. |
+| **[QuantLib](https://github.com/lballabio/QuantLib)** | [![GitHub_Stars](https://img.shields.io/github/stars/lballabio/QuantLib?style=social&color=white)](https://github.com/lballabio/QuantLib/stargazers) | Premier C++/Python quantitative finance framework for pricing derivatives, yield curves, and risk calculations. |
+| **[finmarketpy](https://github.com/cuemacro/finmarketpy)** | [![GitHub_Stars](https://img.shields.io/github/stars/cuemacro/finmarketpy?style=social&color=white)](https://github.com/cuemacro/finmarketpy/stargazers) | Python library for backtesting quantitative trading strategies and analyzing financial market data including commodities. |
+| **[ffn](https://github.com/pmorissette/ffn)** | [![GitHub_Stars](https://img.shields.io/github/stars/pmorissette/ffn?style=social&color=white)](https://github.com/pmorissette/ffn/stargazers) | Financial library for Python providing risk metrics, portfolio performance evaluation, and drawdown tracking. |
+| **[Open Source Risk Engine (ORE)](https://github.com/OpenSourceRisk/Engine)** | [![GitHub_Stars](https://img.shields.io/github/stars/OpenSourceRisk/Engine?style=social&color=white)](https://github.com/OpenSourceRisk/Engine/stargazers) | Enterprise open-source pricing engine, Monte Carlo simulation, XVA, and commodity derivative risk analytics. |
+| **[Enerra](https://github.com/Anknoit/Enerra)** | [![GitHub_Stars](https://img.shields.io/github/stars/Anknoit/Enerra?style=social&color=white)](https://github.com/Anknoit/Enerra/stargazers) | Experimental Django-based open-source Energy Trade and Risk Management (ETRM) prototype for learning and research. |
 
 ---
 
